@@ -8,6 +8,7 @@ tags:
   - test
   - something
   - tagging
+  - lorem-ipsum
 ---
 
 ## Hoc domum solitos veteremque nostrum
